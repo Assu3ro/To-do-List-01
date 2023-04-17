@@ -1,5 +1,5 @@
 # To-do-List-01
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Desafio+To+do+List!!!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Desafio+"To+do+List"!!!)
 <br>
 Segue imagens do funcionamento:
 ![image](https://user-images.githubusercontent.com/63565141/232454836-f0057c4f-18cb-42da-bb89-f5db839df32e.png)
