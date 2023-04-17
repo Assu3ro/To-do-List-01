@@ -12,7 +12,6 @@ Segue imagens do funcionamento:
 ![image](https://user-images.githubusercontent.com/63565141/232455682-0dd4d9f2-cb63-4710-96bb-8a2fb4d6a012.png)
 ![image](https://user-images.githubusercontent.com/63565141/232457379-775a24bd-1c96-4e2d-84fa-3841264d30fe.png)
 ![image](https://user-images.githubusercontent.com/63565141/232457484-e36ee1f4-88de-4e1e-a994-53e19d9bd8e1.png)
-![image](https://user-images.githubusercontent.com/63565141/232457730-b6c060ec-1f0c-42e2-b7d9-b74642cf9d9d.png)
 ![image](https://user-images.githubusercontent.com/63565141/232457757-1414359b-261a-4b2f-9e6f-d22823c93c33.png)
 ![image](https://user-images.githubusercontent.com/63565141/232457831-70c72eb3-dab8-4c0b-b57b-e9da8b44ff11.png)
 ![image](https://user-images.githubusercontent.com/63565141/232458048-1a9ff6c5-3beb-4414-a19f-8d71b0557f19.png)
