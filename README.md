@@ -1,6 +1,6 @@
 # Lista de Tarefa / To do List
-<br><br>
-Sejam bem vindos ao meu primeiro projeto usando o Framework Angular, com TypeScript.
+<br>
+- Sejam bem vindos ao meu primeiro projeto usando o Framework Angular, com TypeScript.
 <br>
 ![image](https://user-images.githubusercontent.com/63565141/232455648-dd058e7b-6b7f-4296-83b2-7c721a1f49f0.png)
 <br>
