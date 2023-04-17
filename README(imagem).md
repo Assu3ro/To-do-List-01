@@ -2,6 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Desafio+"To+do+List"!!!)
 <br>
 Segue imagens do funcionamento:
+<br>
 ![image](https://user-images.githubusercontent.com/63565141/232454836-f0057c4f-18cb-42da-bb89-f5db839df32e.png)
 ![image](https://user-images.githubusercontent.com/63565141/232454986-75d5807b-14bb-430b-902f-8876b97acbcf.png)
 ![image](https://user-images.githubusercontent.com/63565141/232455484-71519989-a740-452b-a033-09c1fff952b5.png)
